@@ -1,3 +1,9 @@
+
+## Exploratory Data Analysis - Week 1 - Plotting Assignment
+
+This is the submission for Exploratory Data Analysis, week 1 - Plotting Assignment. Attached are 4 plots and corresponding R coding files. Below are the assignment instructions.
+
+
 ## Introduction
 
 This assignment uses data from
